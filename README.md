@@ -28,7 +28,7 @@ Ich gestalte digitale Erlebnisse, die begeistern. Als Gründer von [ByteGrow](ht
 
 [![Website](https://img.shields.io/badge/-dominikarold.de-111111?style=flat-square&logo=safari&logoColor=white)](https://www.dominikarold.de)
 [![ByteGrow](https://img.shields.io/badge/-ByteGrow-E8622A?style=flat-square&logo=globe&logoColor=white)](https://bytegrow.de)
-[![E-Mail](https://img.shields.io/badge/-dev@dominikarold.de-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hey@dominikarold.de)
+[![E-Mail](https://img.shields.io/badge/-hey@dominikarold.de-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hey@dominikarold.de)
 
 ---
 
