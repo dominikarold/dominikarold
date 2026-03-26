@@ -1,6 +1,6 @@
 # Hi, ich bin Dominik 👋
 
-**Designer × Developer × AI Enthusiast** — aus Ansbach, Bavaria 🇩🇪
+**Designer × Developer × AI Enthusiast** — aus Bavaria 🇩🇪
 
 Ich gestalte digitale Erlebnisse, die begeistern. Als Gründer von [ByteGrow](https://bytegrow.de) und Autodidakt verbinde ich kreatives Design, moderne Web-Entwicklung und den gezielten Einsatz von KI zu ganzheitlichen digitalen Lösungen.
 
