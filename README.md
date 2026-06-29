@@ -2,7 +2,7 @@
 
 **Designer × Developer × AI Enthusiast** — aus Bavaria 🇩🇪
 
-Ich gestalte digitale Erlebnisse, die begeistern. Als Gründer von [ByteGrow](https://bytegrow.de) und Autodidakt verbinde ich kreatives Design, moderne Web-Entwicklung und den gezielten Einsatz von KI zu ganzheitlichen digitalen Lösungen.
+Ich gestalte digitale Erlebnisse, die begeistern. Als Gründer von [ByteGrow](https://bytegrow.de) verbinde ich kreatives Design, moderne Web-Entwicklung und den gezielten Einsatz von KI zu ganzheitlichen digitalen Lösungen.
 
 ---
 
